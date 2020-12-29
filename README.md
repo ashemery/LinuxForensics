@@ -1,4 +1,4 @@
-# LinuxForensic
+# LinuxForensics
 Everything related to Linux Forensics
 
 ## Useful resources:
