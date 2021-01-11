@@ -1,7 +1,7 @@
 # Linux Forensics Workshop at [DFRWS USA 2020](https://dfrws.org/presentation/performing-linux-forensic-analysis-and-why-you-should-care/)
 
-## Slides
-- Download them from [here:](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2020/Workshop-Manual.pdf)
+## Lab Manual
+- Download it from [here:](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2020/Workshop-Manual.pdf)
 
 ## System Requirements
 Hardware: a laptop with the following minimum specifications:
