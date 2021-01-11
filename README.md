@@ -1,7 +1,7 @@
 # Linux Forensics
 Everything related to Linux Forensics
 
-## Note: for better navigation, please visit the repo's main page [here](https://ashemery.github.io/LinuxForensics/)
+## Note: for better navigation, please visit the repo's main page [here](https://linuxdfir.ashemery.com/)
 
 ## Useful resources:
 - Best Linux Resource: [here](https://man7.org/tlpi/index.html)
