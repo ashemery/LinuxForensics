@@ -1,7 +1,9 @@
 # Linux Forensics
 Everything related to Linux Forensics
 
-[Talks](Talks) | [Workshops](Workshops)
+## Index
+- [Talks](Talks)
+- [Workshops](Workshops)
 
 ## Useful resources:
 - Best Linux Resource: [here](https://man7.org/tlpi/index.html)
