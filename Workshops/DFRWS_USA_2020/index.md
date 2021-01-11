@@ -11,5 +11,3 @@ Hardware: a laptop with the following minimum specifications:
 Software: a Linux/Windows system with:
 - VMWare or VirtualBox
 - Tsurugi Linux running in a Virtual Machine. Can be downloaded from [here:](https://tsurugi-linux.org/downloads.php). If you can’t install Tsurugi, a pre-configured VM can be downloaded from the same download page.
-
-## [Back to Workshops](..\Workshops)
