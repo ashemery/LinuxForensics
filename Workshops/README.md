@@ -1,4 +1,4 @@
-[OSDFCon 2019](https://www.osdfcon.org/events_2019/performing-linux-forensic-analysis-and-why-you-should-care-2/)
+Linux Forensics Workshop at [OSDFCon 2019](https://www.osdfcon.org/events_2019/performing-linux-forensic-analysis-and-why-you-should-care-2/)
 
 # System Requirements
 
