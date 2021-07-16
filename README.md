@@ -9,11 +9,11 @@ Everything related to Linux Forensics
 
 ## Main Linux DFIR Team:
 - Ali Hadi, [Twitter](https://twitter.com/binaryz0ne)
-- Brendan Brown (2019 - 2020), [Twitter](https://twitter.com/br_endian)
-- Mariam Khader (2019 - present), [Twitter](https://twitter.com/MariamKhader118)
-- Victor Griswold (2019 - present), [Twitter](https://twitter.com/vicgriswold)
-- Austin Grupposo (IoT Linux Forensics, 2019 - present)
-- Joseph McCormack (worked on IoT Linux Forensics, 2019 - 2020)
+- Brendan Brown, [Twitter](https://twitter.com/br_endian), (2019 - 2020)
+- Mariam Khader, [Twitter](https://twitter.com/MariamKhader118), (2019 - present)
+- Victor Griswold, [Twitter](https://twitter.com/vicgriswold), (2019 - present)
+- Austin Grupposo, (IoT Linux Forensics, 2019 - present)
+- Joseph McCormack, (worked on IoT Linux Forensics, 2019 - 2020)
 
 
 ## People to check for useful stuff:
