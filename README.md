@@ -13,7 +13,7 @@ Everything related to Linux Forensics
 - Ali Hadi, [Twitter](https://twitter.com/binaryz0ne)
 - Mariam Khader, [Twitter](https://twitter.com/maryst33d), (2019 - present)
 - Alayna Cash, (Linux GUI Environments, 2022 - present)
-- Austin Grupposo, (IoT Linux Forensics, 2019 - present)
+- Austin Grupposo, (IoT Linux Forensics, 2019 - 2020)
 
 
 ## Previous Team Members
