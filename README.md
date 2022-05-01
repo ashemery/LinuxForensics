@@ -18,7 +18,7 @@ Everything related to Linux Forensics
 
 ## Previous Team Members
 - Brendan Brown, [Twitter](https://twitter.com/br_endian), (2019 - 2020)
-- Victor Griswold, [Twitter](https://twitter.com/vicgriswold), (2019 - present)
+- Victor Griswold, [Twitter](https://twitter.com/vicgriswold), (2019 - 2020)
 - Joseph McCormack, (worked on IoT Linux Forensics, 2019 - 2020)
 
 
