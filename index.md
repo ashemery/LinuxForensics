@@ -1,9 +1,6 @@
 # Linux Forensics
 Everything related to Linux Forensics
 
-
-## Note: for better navigation, please visit the repo's main page [here](https://linuxdfir.ashemery.com/)
-
 ## Index
 - [Talks](Talks)
 - [Workshops](Workshops)
