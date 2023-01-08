@@ -1,0 +1,16 @@
+/dev/mapper/VulnOSv2--vg-root / ext4 rw,errors=remount-ro 0 0
+proc /proc proc rw,noexec,nosuid,nodev 0 0
+sysfs /sys sysfs rw,noexec,nosuid,nodev 0 0
+none /sys/fs/cgroup tmpfs rw 0 0
+none /sys/fs/fuse/connections fusectl rw 0 0
+none /sys/kernel/debug debugfs rw 0 0
+none /sys/kernel/security securityfs rw 0 0
+udev /dev devtmpfs rw,mode=0755 0 0
+devpts /dev/pts devpts rw,noexec,nosuid,gid=5,mode=0620 0 0
+tmpfs /run tmpfs rw,noexec,nosuid,size=10%,mode=0755 0 0
+none /run/lock tmpfs rw,noexec,nosuid,nodev,size=5242880 0 0
+none /run/shm tmpfs rw,nosuid,nodev 0 0
+none /run/user tmpfs rw,noexec,nosuid,nodev,size=104857600,mode=0755 0 0
+none /sys/fs/pstore pstore rw 0 0
+/dev/sda1 /boot ext2 rw 0 0
+systemd /sys/fs/cgroup/systemd cgroup rw,noexec,nosuid,nodev,none,name=systemd 0 0
