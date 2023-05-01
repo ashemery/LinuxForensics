@@ -2,15 +2,15 @@
 
 All the Linux Forensics workshop material used for the National Cyber Crime Conference (NCCC) 2023 can be found here.
 
-## Lab File(s) and Manual(s) - coming soon!
+### Lab File(s) and Manual(s) - coming soon!
 - Slides can be found [here](https://github.com/ashemery/LinuxForensics/raw/master/Workshops/NCCC23/Files/NCCC23-Linux%20Forensics.pptx)
 - Lab Manual
-- The E01 evidence file can be downloaded from [here](https://archive.org/details/case1-webserver).
+- The E01 evidence file can be downloaded from [here](https://archive.org/details/case1-webserver)
 ---
 
 
-## System Requirements
-### Hardware: a laptop with the following minimum specifications:
+### System Requirements
+#### Hardware: a laptop with the following minimum specifications:
 - 8GB RAM
 - 100GB Free disk space
 
@@ -19,6 +19,6 @@ All the Linux Forensics workshop material used for the National Cyber Crime Conf
 - Tsurugi Linux running in a Virtual Machine. Can be downloaded from [here](https://tsurugi-linux.org/downloads.php). If you can’t install Tsurugi, a pre-configured VM can be downloaded from the same download page.
 ---
 
-## Created & Presented by:
+### Created & Presented by:
 - Ali Hadi, [Twitter](https://twitter.com/binaryz0ne)
 - Mariam Khader, [Twitter](https://twitter.com/maryst33d)
