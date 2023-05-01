@@ -16,7 +16,7 @@ All the material used for the National Cyber Crime Conference (NCCC) 2023 can be
 
 ### Software: a Linux/Windows system with:
 - VMWare or VirtualBox
-- Tsurugi Linux running in a Virtual Machine. Can be downloaded from [here:](https://tsurugi-linux.org/downloads.php). If you can’t install Tsurugi, a pre-configured VM can be downloaded from the same download page.
+- Tsurugi Linux running in a Virtual Machine. Can be downloaded from [here](https://tsurugi-linux.org/downloads.php). If you can’t install Tsurugi, a pre-configured VM can be downloaded from the same download page.
 ---
 
 ## Created & Presented by:
