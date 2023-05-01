@@ -1,6 +1,6 @@
 # [NCCC-23](https://www.mass.gov/service-details/national-cyber-crime-conference) Conference Material
 
-All the material used for the National Cyber Crime Conference (NCCC) 2023 can be found here.
+All the Linux Forensics workshop material used for the National Cyber Crime Conference (NCCC) 2023 can be found here.
 
 ## Lab File(s) and Manual(s) - coming soon!
 - Slides can be found [here](https://github.com/ashemery/LinuxForensics/raw/master/Workshops/NCCC23/Files/NCCC23-Linux%20Forensics.pptx)
