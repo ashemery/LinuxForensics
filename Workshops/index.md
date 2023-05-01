@@ -1,5 +1,5 @@
 # List of Workshops Performed:
-- Linux Forensics Workshop at [NCCC-23](NCCC-23)
+- Linux Forensics Workshop at [NCCC23](NCCC-23)
 - Linux Forensics Workshop at [DFRWS USA 2022](DFRWS_USA_2022)
 - Linux Forensics CTF at [MUS22](MUS22)
 - Linux Forensics Workshop at [DFRWS USA 2020](DFRWS_USA_2020)
