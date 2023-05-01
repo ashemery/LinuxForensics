@@ -3,7 +3,7 @@
 All the material used for the National Cyber Crime Conference (NCCC) 2023 can be found here.
 
 ## Lab File(s) and Manual(s) - coming soon!
-- Slides
+- Slides can be found [here](https://github.com/ashemery/LinuxForensics/raw/master/Workshops/NCCC23/Files/NCCC23-Linux%20Forensics.pptx)
 - Lab Manual
 - The E01 evidence file can be downloaded from [here](https://archive.org/details/case1-webserver).
 ---
