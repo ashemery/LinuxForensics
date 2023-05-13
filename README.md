@@ -21,7 +21,7 @@ Everything related to Linux Forensics
 - Joseph McCormack, (worked on IoT Linux Forensics, 2019 - 2020)
 - Austin Grupposo, [Twitter](https://twitter.com/Lukrativ508),(IoT Linux Forensics, 2019 - 2020)
 
-## Other People to Follow and Check Thier Work:
+## Other People to Follow and Check Their Work:
 - Asif Matadar, [Twitter](https://twitter.com/d1r4c)
 - Craig Rowland, [Twitter](https://twitter.com/craighrowland)
 - Giovanni Rattaro, [Twitter](https://twitter.com/Sug4r7)
