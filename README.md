@@ -13,6 +13,7 @@ Everything related to Linux Forensics
 - Ali Hadi, [Twitter](https://twitter.com/binaryz0ne)
 - Mariam Khader, [Twitter](https://twitter.com/maryst33d), (2019 - present)
 - Alayna Cash, (Linux GUI Environments, 2022 - present)
+- Tom Claflin, [Twitter](https://twitter.com/_cyberyom), (DFRWS USA, 2023 - present)
 - Leahy Center, [Twitter](https://twitter.com/leahycenter), (2021 - present)
 
 ## Previous Team Members
