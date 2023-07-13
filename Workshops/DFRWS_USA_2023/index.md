@@ -6,9 +6,9 @@
 - [Data Set](Coming Soon)
 - VM Preloaded with Dataset can be found [here](Coming Soon)
 - ### Timeline(s)
-- [Master](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/master.csv)
-- [Slave1](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/slave1.csv)
-- [Slave2](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/slave2.csv)
+  - [Master](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/master.csv)
+  - [Slave1](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/slave1.csv)
+  - [Slave2](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/slave2.csv)
 
 
 ## Current Team Members:
