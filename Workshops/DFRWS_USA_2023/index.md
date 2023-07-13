@@ -11,7 +11,8 @@
   - [Slave2](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/slave2.csv)
 
 
-## Current Team Members:
+## Team Members
+This workshop was presented by:
 - Ali Hadi, [Twitter](https://twitter.com/binaryz0ne)
 - Mariam Khader, [Twitter](https://twitter.com/maryst33d)
 - Tom Claflin, [Twitter](https://twitter.com/_cyberyom)
@@ -19,5 +20,5 @@
 
 ## Useful resources:
 - Best Linux Resource: [here](https://man7.org/tlpi/index.html)
-- Linux Forensics Distro: [here](https://tsurugi-linux.org/)
+- Our Recommended Linux Forensics Distro: [here](https://tsurugi-linux.org/)
 
