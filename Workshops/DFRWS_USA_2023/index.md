@@ -4,7 +4,7 @@
 - [Slides](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/Linux-Forensics-Workshop-Slides.pdf)
 - [Lab-Manual](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/Linux-Forensics-Workshop-Manual.pdf)
 - [Data Set](https://archive.org/details/hdfs-case)
-- VM Preloaded with Dataset can be found [here]([Coming Soon](https://archive.org/details/hdfs-case))
+- VM Preloaded with Dataset can be found [here](https://archive.org/details/hdfs-case)
 - **Pre-generated Timeline(s)**
   - [Master](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/master.csv)
   - [Slave1](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/slave1.csv)
