@@ -1,8 +1,8 @@
 # Linux Forensics Workshop @ DFRWS USA 2023
 
 ## Index
-- [Slides](Workshops/DFRWS_USA_2023/Linux-Forensics-Workshop-Slides.pdf)
-- [Lab-Manual](Workshops/DFRWS_USA_2023/Linux-Forensics-Workshop-Manual.pdf)
+- [Slides](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/Linux-Forensics-Workshop-Slides.pdf)
+- [Lab-Manual](https://github.com/ashemery/LinuxForensics/blob/master/Workshops/DFRWS_USA_2023/Linux-Forensics-Workshop-Manual.pdf)
 - [Data Set](Coming Soon)
 - VM Preloaded with Dataset can be found [here](Coming Soon)
 
